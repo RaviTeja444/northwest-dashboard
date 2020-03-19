@@ -1,0 +1,2 @@
+C:\Users\S538296\source\repos\StudentManagementPortal\StudentManagementPortal\obj\Debug\netcoreapp3.1\staticwebassets\StudentManagementPortal.StaticWebAssets.Manifest.cache
+C:\Users\S538296\source\repos\StudentManagementPortal\StudentManagementPortal\obj\Debug\netcoreapp3.1\staticwebassets\StudentManagementPortal.StaticWebAssets.xml
